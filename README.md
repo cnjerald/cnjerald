@@ -1,8 +1,17 @@
-Hi, im Jerald
+## Hi, I'm Jerald
 
-My research interests are web development, cloud computing, image processing and recognition.
+### Research & Technical Interests
+- Web Development  
+- Cloud Computing
+- Database Management / Design
+- Image Processing & Recognition  
 
-<!---
-cnjerald/cnjerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+**Experienced with:** JavaScript, Python, Java  
+**Familiar with:** C, C++, Kotlin  
+
+### Databases
+MySQL • PostgreSQL • MongoDB  
+
+### Cloud
+AWS  
