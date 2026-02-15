@@ -3,8 +3,9 @@
 ### Research & Technical Interests
 - Web Development  
 - Cloud Computing
-- Database Management / Design
-- Image Processing & Recognition  
+- Database Management and Design
+- Image Processing & Recognition
+- Quality Assurance Testing  
 
 ### Programming Languages
 **Experienced with:** JavaScript, Python, Java  
