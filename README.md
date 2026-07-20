@@ -9,6 +9,7 @@
 
 ### Programming Languages
 **Experienced with:** JavaScript, Python, Java, PHP, Wordpress
+
 **Familiar with:** C, C++, Kotlin  
 
 ### Databases
